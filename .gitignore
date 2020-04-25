@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DemoVerySimpleCqrs/bin/Debug
+/DemoVerySimpleCqrs/obj/Debug
+/packages/d60.Cirqus.0.69.0
